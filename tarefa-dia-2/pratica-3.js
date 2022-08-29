@@ -4,7 +4,7 @@ let tamanho = Turing.length;
 
 console.log (tamanho);
 
-let quantidade = "6110"
+let quantidade = tamanho
 
 let caractere = "6110"
 
