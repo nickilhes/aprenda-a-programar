@@ -1,7 +1,8 @@
-let n = 1
+let i = 1
+let n = 17
 
-while (n <= 17) {
+while (i <= n) {
 
-    console.log (n)
-    n = n + 1
+    console.log (i)
+   i++
 }
