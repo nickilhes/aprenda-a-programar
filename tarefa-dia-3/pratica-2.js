@@ -9,12 +9,3 @@ while (i <= n) {
     console.log (multiplicador + "X" , i , "=" + resultado)
     i++
 }
-
-multiplicadorA = multiplicador + 1
-
-while (i <= n) {
-    let resultado = multiplicadorA * i
-   
-    console.log (multiplicadorA + "X" , i , "=" + resultado)
-    i++
-}
